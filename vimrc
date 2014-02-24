@@ -5,7 +5,8 @@ set nu
 set ai
 colorscheme molokai
 syntax on
-set sw=4
+set si
+set sw=4 "Keep 4 chars in new line
 set ts=4
 set backspace=2
 set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1
